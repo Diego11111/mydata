@@ -9,4 +9,5 @@
 00:1A:79:E2:4F:A0<!>http://ip.king-cobra.eu:8080/c/<!> ,
 00:1A:79:B6:56:22<!>http://ip.king-cobra.eu:8080/c/<!> ,
 00:1A:79:5D:2F:F3<!>http://ip.king-cobra.eu:8080/c/<!> ,
+00:1a:79:52:47:63<!>http://ip.king-cobra.eu:8080/c/<!> 2023-08-04,
 00:1A:79:97:49:61<!>http://ip.king-cobra.eu:8080/c/<!> 
