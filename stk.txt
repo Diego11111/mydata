@@ -1,13 +1,1 @@
-00:1a:79:a4:6b:fd<!>http://powerip.be:8000/c/<!> ,
-00:1a:79:a2:e6:eb<!>http://powerip.be:8000/c/<!> ,
-00:1a:79:ae:03:ed<!>http://powerip.be:8000/c/<!> ,
-00:1a:79:a3:95:98<!>http://powerip.be:8000/c/<!> ,
-00:1a:79:aa:d3:64<!>http://powerip.be:8000/c/<!> ,
-00:1a:79:a0:c0:ad<!>http://powerip.be:8000/c/<!> ,
-00:1a:79:a1:27:12<!>http://powerip.be:8000/c/<!> ,
-00:1a:79:ab:ee:17<!>http://powerip.be:8000/c/<!> ,
-00:1A:79:E2:4F:A0<!>http://ip.king-cobra.eu:8080/c/<!> ,
-00:1A:79:B6:56:22<!>http://ip.king-cobra.eu:8080/c/<!> ,
-00:1A:79:5D:2F:F3<!>http://ip.king-cobra.eu:8080/c/<!> ,
-00:1a:79:52:47:63<!>http://ip.king-cobra.eu:8080/c/<!> 2023-08-04,
-00:1A:79:97:49:61<!>http://ip.king-cobra.eu:8080/c/<!> 
+ 
